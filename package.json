@@ -30,7 +30,7 @@
   "dependencies": {
     "chai": "^4.2.0",
     "cheerio": "^1.0.0-rc.2",
-    "cross-env": "^5.2.0",
+    "cross-env": "^5.2.1",
     "mocha": "^5.2.0",
     "postcss": "^7.0.5",
     "postcss-merge-longhand": "^4.0.7",
